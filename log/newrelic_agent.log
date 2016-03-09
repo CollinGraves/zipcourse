@@ -465,3 +465,24 @@
 [2016-03-09 13:15:14 -0600 Collins-MBP (98511)] INFO : Dispatcher: delayed_job
 [2016-03-09 13:15:14 -0600 Collins-MBP (98511)] INFO : Application: zipcourse
 [2016-03-09 13:15:14 -0600 Collins-MBP (98511)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Reading configuration from config/newrelic.yml (/Users/cgraves/Desktop/zipcourse)
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : New Relic Agent Developer Mode enabled.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Environment: development
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : No known dispatcher detected.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Application: zipcourse
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing ActiveJob instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Net instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Rails 3+ middleware instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Rails 4 Controller instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Rails 4 view instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Installing Rails 4 Error instrumentation
+[2016-03-09 13:27:13 -0600 Collins-MBP (885)] INFO : Finished instrumentation

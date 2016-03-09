@@ -1,1 +1,1 @@
-# zipcourse
+# ZipCourse

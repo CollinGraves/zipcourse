@@ -83,3 +83,87 @@
 [2016-03-09 12:38:45 -0600 Collins-MBP (79601)] INFO : Installing Rails 4 view instrumentation
 [2016-03-09 12:38:45 -0600 Collins-MBP (79601)] INFO : Installing Rails 4 Error instrumentation
 [2016-03-09 12:38:45 -0600 Collins-MBP (79601)] INFO : Finished instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Reading configuration from config/newrelic.yml (/Users/cgraves/Desktop/zipcourse)
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : New Relic Agent Developer Mode enabled.
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Environment: development
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : No known dispatcher detected.
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Application: zipcourse
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing ActiveJob instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Net instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Rails 3+ middleware instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Rails 4 Controller instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Rails 4 view instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Installing Rails 4 Error instrumentation
+[2016-03-09 12:45:56 -0600 Collins-MBP (84614)] INFO : Finished instrumentation
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Reading configuration from config/newrelic.yml (/Users/cgraves/Desktop/zipcourse)
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : New Relic Agent Developer Mode enabled.
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Environment: development
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : No known dispatcher detected.
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Application: zipcourse
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Installing ActiveJob instrumentation
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2016-03-09 12:45:58 -0600 Collins-MBP (84616)] INFO : Installing Net instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Rails 3+ middleware instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Rails 4 Controller instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Rails 4 view instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Installing Rails 4 Error instrumentation
+[2016-03-09 12:45:59 -0600 Collins-MBP (84616)] INFO : Finished instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Reading configuration from config/newrelic.yml (/Users/cgraves/Desktop/zipcourse)
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : New Relic Agent Developer Mode enabled.
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Environment: development
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : No known dispatcher detected.
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Application: zipcourse
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing ActiveJob instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Net instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Rails 3+ middleware instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Rails 4 Controller instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Rails 4 view instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Installing Rails 4 Error instrumentation
+[2016-03-09 12:46:51 -0600 Collins-MBP (86199)] INFO : Finished instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Reading configuration from config/newrelic.yml (/Users/cgraves/Desktop/zipcourse)
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : New Relic Agent Developer Mode enabled.
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Environment: development
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : No known dispatcher detected.
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Application: zipcourse
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] WARN : Agent configured not to send data in this environment.
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing ActiveJob instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Net instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Rails 3+ middleware instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Rails 4 Controller instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Rails 4 view instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Installing Rails 4 Error instrumentation
+[2016-03-09 12:47:00 -0600 Collins-MBP (86491)] INFO : Finished instrumentation

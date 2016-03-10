@@ -1,1 +1,21 @@
+# Ignore all logfiles and tempfiles.
 /log/*.log
+/tmp/
+tmp/
+/cache/
+*.log
+
+# Ignore spring binstubs
+/bin/
+
+# Ignore the database.yml file
+/config/database.yml
+/.powrc
+
+# Ignore bundler config
+/.bundle
+
+
+*.log
+
+*.cache

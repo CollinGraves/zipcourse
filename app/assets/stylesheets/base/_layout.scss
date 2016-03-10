@@ -7,3 +7,7 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+.container-fluid {
+  @include outer-container(80%);
+}

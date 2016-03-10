@@ -1,4 +1,4 @@
-# Zipcourse
+# ZipCourse
 
 ## Getting Started
 
